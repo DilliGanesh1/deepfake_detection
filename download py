@@ -1,0 +1,7 @@
+"c:\users\welcome\appdata\local\programs\python\python313\python.exe" download.py faceforensics_download -d original -c raw -n 50
+
+@REM "c:\users\welcome\appdata\local\programs\python\python313\python.exe" download.py faceforensics_download -d Deepfakes -c raw -n 16
+
+@REM "c:\users\welcome\appdata\local\programs\python\python313\python.exe" download.py faceforensics_download -d Face2Face -c raw -n 16
+
+@REM  "c:\users\welcome\appdata\local\programs\python\python313\python.exe" download.py faceforensics_download -d FaceSwap -c raw -n 18
